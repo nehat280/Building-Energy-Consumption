@@ -34,6 +34,7 @@ Project is divided in to two notebooks
 ## Metric:
 
 Metric used here is RSMLE(ROOT MEAN SQUARED LOG ERRROR)
+![](download.png)
 
 ## Findings from Data:
 
